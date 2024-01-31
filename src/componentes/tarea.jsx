@@ -2,9 +2,9 @@ import React from "react";
 import "../hojas-style/tareas.css"
 import { AiOutlineClose } from "react-icons/ai";
 
-function Tarea({id, texto, completada, completarTarea, eliminarTarea}) {
+function Tarea({id, texto, estado, completarTarea, eliminarTarea}) {
     return (
-        <div className={completada ? 'tarea-contenedor completada' : 'tarea-contenedor'}>
+        <div className={estado ? 'tarea-contenedor estado' : 'tarea-contenedor'}>
             <div
             onClick={()=> completarTarea(id)}
                 className="tarea-texto">
