@@ -28,7 +28,7 @@
 
 Configura las variables de entorno en un archivo `.env` con el siguiente contenido:
 
-```env
+env
 PORT=3500
 SERVER=localhost
 USER=root
