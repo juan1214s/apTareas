@@ -28,13 +28,12 @@
 
 Configura las variables de entorno en un archivo `.env` con el siguiente contenido:
 
-``env
-PORT=3500
-SERVER=localhost
-USER=root
-PASSWORD=""
-DATABASE=tareas
-``
+- PORT=3500
+- SERVER=localhost
+- USER=root
+- PASSWORD=""
+- DATABASE=tareas
+
 ##Instalación 
 
 1.Clona el repositorio: git@github.com: juan1214s/apTareas.git
