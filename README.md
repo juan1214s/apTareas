@@ -34,7 +34,7 @@ Configura las variables de entorno en un archivo `.env` con el siguiente conteni
 - PASSWORD=""
 - DATABASE=tareas
 
-##Instalación 
+**Instalación**
 
 1.Clona el repositorio: git@github.com: juan1214s/apTareas.git
 2.Accede al directorio del proyecto: cd apTareas
