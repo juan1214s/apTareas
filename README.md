@@ -20,13 +20,13 @@
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tuusuario/appTareas.git
+   git@github.com:juan1214s/apTareas.git
     ```
 
 2. Accede al directorio del proyecto:
 
     ```bash
-    cd appTareas
+    cd apTareas
     ```
 
 3. Instala las dependencias necesarias:
